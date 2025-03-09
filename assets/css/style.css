@@ -806,6 +806,7 @@ header {
 .main-b-l a:nth-child(4) {
     background: rgb(69 43 144 / 10%);
     color: rgb(13 153 255);
+    border: 1px solid;
 }
 
 .project-list h4 {
