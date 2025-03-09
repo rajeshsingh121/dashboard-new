@@ -185,6 +185,11 @@ header {
     color: #f8b940;
 }
 
+.drop-show>i {
+    transform: rotate(90deg);
+    margin-right: 5px;
+}
+
 .slip .h-modif i:nth-child(2) {
     display: none;
 }
